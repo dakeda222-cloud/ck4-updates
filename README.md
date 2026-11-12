@@ -1,3 +1,11 @@
+<!-- GK4-STABLE-LAUNCHER -->
+## 런처 다운로드
+
+[최신 런처 설치파일 다운로드](https://github.com/dakeda222-cloud/ck4-updates/releases/download/launcher-latest/GK4Launcher_Setup_win-x64.exe)
+
+이 주소는 버전이 바뀌어도 같습니다. 기존 런처는 삭제하지 않고 같은 위치에 덮어 설치하세요. 게임 폴더와 세이브는 유지됩니다.
+<!-- /GK4-STABLE-LAUNCHER -->
+
 # CKW IV 팬 리마스터 배포
 
 비공식 팬 프로젝트의 런처 배포 저장소입니다. 런처는 Releases에서 파일을 확인하고 내려받습니다.
